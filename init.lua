@@ -1,1 +1,2 @@
-print("hello")
+require("core")
+require("config")
